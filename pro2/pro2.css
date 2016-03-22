@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+.title {
+	color: yellow;
+}
+.app {
+    display: -webkit-flex;
+    display: flex;
+    background-color: #36A7FF;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    margin-left: 4px;
+}
+.description
+{
+	margin-left: 40px;
+}
+h1 {
+	text-align: center;
+	font-weight: bold;
+	font-family: Arial;
+	color: #294860;
+}
+.intro
+{
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+.history
+{
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+.courses
+{
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+.cformat
+{
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+.enroll
+{
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;
+}
+.certify
+{background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 10px;
+	color: black;}
